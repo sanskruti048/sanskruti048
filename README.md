@@ -17,8 +17,8 @@
 - Git & GitHub
 
 ## 📫 Let's Connect!
-- [LinkedIn] (www.linkedin.com/in/sanskruti-sugandhi-6573a3269)
-- [Email](sanskruti.sugandhi4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]www.linkedin.com/in/sanskruti-sugandhi-6573a3269
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanskruti.sugandhi4@gmail.com)
 
 ---
 
