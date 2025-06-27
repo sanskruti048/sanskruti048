@@ -16,9 +16,9 @@
 - Power BI
 - Git & GitHub
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sanskruti-sugandhi-6573a3269)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanskruti.sugandhi4@gmail.com)
+## 📫 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/sanskruti-sugandhi-6573a3269) | [Email](mailto:sanskruti.sugandhi4@gmail.com) 
 
 ---
 
