@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! I'm Sanskruti 🥰
 
-<!--
-**sanskruti048/sanskruti048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Engineering student specializing in **Artificial Intelligence and Data Science**.  
+💻 Passionate about building practical, human-centered AI solutions.  
+📊 Focused on Machine Learning, Data Analysis, and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 📚 Currently completing my BE in AI & Data Science
+- ⚡ Love turning raw data into meaningful insights
+- 🤝 Always ready to collaborate on projects, learn new tools, and grow as a developer—and as a person!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python, Pandas, Numpy, Matplotlib
+- Data Analysis & Visualization
+- Machine Learning Models
+- Power BI
+- Git & GitHub
+
+## 📫 Let's Connect!
+- [LinkedIn] (www.linkedin.com/in/sanskruti-sugandhi-6573a3269)
+- [Email](sanskruti.sugandhi4@gmail.com)
+
+---
+
+*"Committed to Learning, Helping, and Building Better Solutions ;)"*
